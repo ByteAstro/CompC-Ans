@@ -5,7 +5,7 @@
 
 int main()
 {
-    int n, k;
+    int n;
     scanf("%d", &n);
 
     int len = 2 * n - 1;
