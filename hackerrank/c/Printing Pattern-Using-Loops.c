@@ -18,7 +18,7 @@ int main()
             min = min < len - j - 1 ? min : len - j - 1;
             printf("%d ", n - min);
         }
-        printf("\n\t");
+        printf("\n");
     }
 
     return 0;
